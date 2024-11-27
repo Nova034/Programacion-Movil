@@ -1,0 +1,11 @@
+{
+    "name": "biblioteca-nova",
+    "version": "1.0.0",
+    "description": "Un sistema basico para gestionar una biblioteca",
+    "main": "src/index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "author": "Juan Carlos Mota George - 22-SISN-2-021"
+}
